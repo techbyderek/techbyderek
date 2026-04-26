@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Derek Rolon, Im from Puerto Rico.
+# 👋 Hi, I'm Derek Rolon.
 
 I'm a Game Developer and Founder of **Devko Studios LLC**, a registered game studio based in North Carolina. I build the gameplay systems, mechanics, and AI - the kind of code that makes games feel alive.
 
@@ -11,6 +11,7 @@ When I'm not writing code, you'll find me playing story-driven games, hitting th
 - I have two dogs — Julieta and Hanzo 🐾
 - I want more tattoos, even though I already have a lot
 - I love story games more than anything else
+- Im from Puerto Rico but living in North Carolina
 
 ---
 
