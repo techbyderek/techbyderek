@@ -11,7 +11,7 @@ When I'm not writing code, you'll find me playing story-driven games, hitting th
 - I have two dogs — Julieta and Hanzo 🐾
 - I want more tattoos, even though I already have a lot
 - I always loved the Japanese culture, that's why you'll see Miyamoto as my pfp :)
-- Im from Puerto Rico but living in North Carolina
+- I'm from Puerto Rico but living in North Carolina
 
 ---
 
